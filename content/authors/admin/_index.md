@@ -1,5 +1,3 @@
----
-# Display name
 title: Asael M Garcia
 
 # Full name (for SEO)
