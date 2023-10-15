@@ -4,10 +4,6 @@ title: Asael M Garcia
 first_name: Asael
 last_name: Garcia
 
-# Status emoji
-# status:
-#  icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
