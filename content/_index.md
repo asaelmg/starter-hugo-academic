@@ -1,3 +1,5 @@
+---
+# Page Title
 title:
 date: 2022-10-24
 type: landing
@@ -36,6 +38,7 @@ type: landing
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+---
  sections:
 - block: features
     content:
