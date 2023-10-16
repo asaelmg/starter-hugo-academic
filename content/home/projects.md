@@ -29,8 +29,8 @@ content:
     tag: '*'
   - name: Basic R Dashboard
     tag: Basic R Dashboard
-  - name: Other
-    tag: Demo
+  - name: Basic Revenue Dashboard
+    tag: Basic Revenue Dashboard
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
