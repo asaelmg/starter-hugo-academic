@@ -10,7 +10,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: Please email or reach out on LinkedIn
 
 content:
   # Automatically link email and phone or display as text?
@@ -40,7 +40,7 @@ content:
   #  longitude: '-122.1697'
   # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
-    - 'Monday to Friday 08:00am to 5:00pm'
+    - 'Monday - Friday 8:00am - 5:00pm'
   appointment_url: 'https://calendly.com'
   contact_links:
     - icon: LinkedIn
