@@ -42,7 +42,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:asaelmgarcia@outlook.com".
-- icon: LinkedIn
+- icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/asaelgarcia/
 # Link to a PDF of your resume/CV from the About widget.
