@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Quarterback Stats
+summary: Basic stats from pro-football-reference.com.
 tags:
   - Basic R Dashboard
 date: '2016-04-27T00:00:00Z'
