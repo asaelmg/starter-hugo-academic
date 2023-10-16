@@ -10,21 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Analyst
+role: GIS Analyst
 
 # Organizations/Affiliations
 organizations:
-- name: Business Intelligence/Analytics
+- name: Bluepeak
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: short bio
+bio: Experienced Analyst with over 9 years experience.
 
 interests:
-- Business Intelligence
 - Analytics
-- Coding
-- Reporting and Dashboarding
+- Dashboarding
+- Data Science
 
 education:
   courses:
