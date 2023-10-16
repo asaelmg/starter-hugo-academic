@@ -1,14 +1,14 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Basic Revenue Dashboard
+summary: Basic Revenue Dashboard created using R Studio.
 tags:
-  - Demo
+  - Basic Revenue Dashboard
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://example.org
+external_link: https://ag183h.shinyapps.io/basic_revenue_dashboard/
 
-image:
-  caption: Photo by Toa Heftiba on Unsplash
-  focal_point: Smart
+# image:
+#  caption: Photo by Toa Heftiba on Unsplash
+#  focal_point: Smart
 ---
