@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Basic R Dashboard
+    tag: Basic R Dashboard
   - name: Other
     tag: Demo
 
