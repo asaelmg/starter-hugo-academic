@@ -43,7 +43,7 @@ content:
     - 'Monday - Friday 8:00am - 5:00pm'
   appointment_url: 'https://calendly.com'
   contact_links:
-    - icon: LinkedIn
+    - icon: linkedin
       icon_pack: fab
       name: LinkedIn
       link: 'https://www.linkedin.com/in/asaelgarcia/'
