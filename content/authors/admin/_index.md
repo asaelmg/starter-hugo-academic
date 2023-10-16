@@ -56,9 +56,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Experienced analyst with over eight years of professional experience in successful business analysis roles. Working closely with internal stakeholders to provide solutions and findings based on relevant data from different data sources. Creating and maintaining multiple dashboards in order to communicate data insights to managers, directors, and cross functional teams. Supporting ad hoc requests and various projects based on business needs while performing independent analysis on unreported areas of the business.
+Experienced analyst with over nine years of professional experience in successful business analysis roles. Working closely with internal stakeholders to provide solutions and findings based on relevant data from different data sources. Creating and maintaining multiple dashboards in order to communicate data insights to managers, directors, and cross functional teams. Supporting ad hoc requests and various projects based on business needs while performing independent analysis on unreported areas of the business.
