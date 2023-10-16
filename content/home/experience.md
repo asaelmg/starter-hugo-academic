@@ -25,7 +25,7 @@ experience:
   - title: GIS Analyst
     company: Bluepeak
     company_url: 'https://mybluepeak.com/'
-    company_logo: org-gc
+    company_logo: bp-logo
     location: Denver, CO
     date_start: '2022-05-16'
     date_end: ''
@@ -38,7 +38,7 @@ experience:
   - title: Revenue Assurance Analyst
     company: Wide Open West
     company_url: 'https://www.wowway.com/'
-    company_logo: org-x
+    company_logo: wow-logo
     location: Denver, CO
     date_start: '2019-05-13'
     date_end: '2022-05-16'
@@ -52,7 +52,7 @@ experience:
   - title: Analyst - Field Operations
     company: At&t/Directv
     company_url: 'https://www.att.com/'
-    company_logo: org-x
+    company_logo: ""
     location: Denver, CO
     date_start: '2011-11-08'
     date_end: '2019-02-16'
