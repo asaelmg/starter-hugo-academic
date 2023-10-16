@@ -41,7 +41,7 @@ content:
   # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
     - 'Monday - Friday 8:00am - 5:00pm'
-  appointment_url: 'https://calendly.com'
+  # appointment_url: 'https://calendly.com'
   contact_links:
     - icon: linkedin
       icon_pack: fab
