@@ -39,14 +39,14 @@ content:
   #  latitude: '37.4275'
   #  longitude: '-122.1697'
   # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday - Friday 8:00am - 5:00pm'
   # appointment_url: 'https://calendly.com'
   contact_links:
     - icon: linkedin
       icon_pack: fab
       name: LinkedIn
       link: 'https://www.linkedin.com/in/asaelgarcia/'
+  office_hours:
+    - 'Monday - Friday 8:00am - 5:00pm'
   
 design:
   columns: '2'
