@@ -54,7 +54,7 @@ experience:
     company_logo: ''
     location: Denver, CO
     date_start: '2019-03-22'
-    date_end: '2022-05-10'
+    date_end: '2019-05-10'
 
   - title: Analyst - FOCUS (field operations capacity utilization strategy)
     company: At&t
