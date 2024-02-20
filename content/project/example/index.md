@@ -2,7 +2,7 @@
 title: Quarterback Stats
 summary: Basic stats from pro-football-reference.com.
 tags:
-  - Basic R Dashboard
+  - Quarterback Stats Dashboard
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
