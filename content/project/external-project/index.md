@@ -1,6 +1,6 @@
 ---
 title: Revenue Dashboard
-summary: Basic Revenue Dashboard created using R Studio.
+summary: Revenue Dashboard created using R Studio.
 tags:
   - Revenue Dashboard
 date: "2016-04-27T00:00:00Z"
