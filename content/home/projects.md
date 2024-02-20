@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Basic R Dashboard
-    tag: Basic R Dashboard
-  - name: Basic Revenue Dashboard
-    tag: Basic Revenue Dashboard
+  - name: Quarterback Stats Dashboard
+    tag: Quarterback Stats Dashboard
+  - name: Revenue Dashboard
+    tag: Revenue Dashboard
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
