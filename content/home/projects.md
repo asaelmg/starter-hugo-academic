@@ -31,6 +31,8 @@ content:
     tag: Quarterback Stats Dashboard
   - name: Revenue Dashboard
     tag: Revenue Dashboard
+  - name: Tableau Dashboard
+    tag: Tableau Dashboard
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
