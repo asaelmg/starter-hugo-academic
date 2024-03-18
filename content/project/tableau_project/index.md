@@ -1,12 +1,12 @@
 ---
-title: Revenue Dashboard
-summary: Revenue Dashboard created using R Studio.
+title: Tableau Dashboard
+summary: Movie Data Dashboard Story.
 tags:
-  - Revenue Dashboard
-date: "2016-04-27T00:00:00Z"
+  - Tableau Dashboard
+date: "2021-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://ag183h.shinyapps.io/basic_revenue_dashboard/
+external_link: https://public.tableau.com/views/VisualizeMovieData--Q4-AG-TableauPublic/Top3ProdCompanies?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 # image:
 #  caption: Photo by Toa Heftiba on Unsplash
