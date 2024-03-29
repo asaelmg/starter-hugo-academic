@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: GIS Analyst
+role: GIS Analyst II
 
 # Organizations/Affiliations
 organizations:
@@ -27,12 +27,15 @@ interests:
 
 education:
   courses:
+  - course: Master of Business Administration
+    institution: University of Northern Colorado
+    year: In Progress
+  - course: Business Administration Information Systems
+    institution: DeVry University
+    year: 2013
   - course: Business Analyst Certification
     institution: Udacity
     year: 2018
-  - course: Business Administration
-    institution: DeVry University
-    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -61,4 +64,4 @@ email: ""
 # - Visitors
 ---
 
-Experienced analyst with over nine years of professional experience in successful business analysis roles. Working closely with internal stakeholders to provide solutions and findings based on relevant data from different data sources. Creating and maintaining multiple dashboards in order to communicate data insights to managers, directors, and cross functional teams. Supporting ad hoc requests and various projects based on business needs while performing independent analysis on unreported areas of the business.
+Experienced analyst with over ten years of professional experience in successful business analysis roles. Working closely with internal stakeholders to provide solutions and findings based on relevant data from different data sources. Creating and maintaining multiple dashboards in order to communicate data insights to managers, directors, and cross functional teams. Supporting ad hoc requests and various projects based on business needs while performing independent analysis on unreported areas of the business.
