@@ -29,7 +29,7 @@ experience:
     location: Denver, CO
     date_start: '2022-05-16'
     date_end: ''
-    description: |3-
+    description: |4-
       Responsibilities include:
     
       Analyzing and monitoring data to guide market expansion while ensuring consumable data to the GIS team.
