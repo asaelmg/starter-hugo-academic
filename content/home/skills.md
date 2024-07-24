@@ -16,31 +16,35 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description:
   icon: table
   icon_pack: fas
   name: Microsoft SQL Server
-- description: 90%
+- description:
   icon: table
   icon_pack: fas
   name: Snowflake
-- description: 90%
+- description:
+  icon: table
+  icon_pack: fas
+  name: MySQL
+- description:
   icon: chart-line
   icon_pack: fas
   name: Tableau
-- description: 90%
+- description:
   icon: table
   icon_pack: fas
   name: PostgreSQL
-- description: 70%
+- description:
   icon: table
   icon_pack: fas
   name: Oracle SQL  
-- description: 70%
+- description:
   icon: r-project
   icon_pack: fab
   name: R
-- description: 60%
+- description:
   icon: database
   icon_pack: fas
   name: SAS
