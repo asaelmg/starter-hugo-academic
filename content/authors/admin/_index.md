@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Experienced Analyst with over 9 years experience.
+bio: Experienced analyst with over 10 years of experience.
 
 interests:
 - Analytics
@@ -29,7 +29,7 @@ education:
   courses:
   - course: Master of Business Administration
     institution: University of Northern Colorado
-    year: In Progress
+    year: 2027
   - course: Business Administration Information Systems
     institution: DeVry University
     year: 2013
