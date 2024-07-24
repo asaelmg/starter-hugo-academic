@@ -30,11 +30,11 @@ experience:
     date_start: '2022-05-16'
     date_end: ''
     description: |2-
-    Responsibilities include:
+      Responsibilities include:
     
-    Analyzing and monitoring data to guide market expansion while ensuring consumable data to the GIS team.
-    Creating ad hoc reporting and standardized reports/dashboards.
-    Maintaining a high level attention to detail.
+      Analyzing and monitoring data to guide market expansion while ensuring consumable data to the GIS team.
+      Creating ad hoc reporting and standardized reports/dashboards.
+      Maintaining a high level attention to detail.
     
   - title: Revenue Assurance Analyst
     company: Wide Open West
