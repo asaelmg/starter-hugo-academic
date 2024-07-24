@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
     
-          • Analyzing and monitoring data to guide market expansion while ensuring consumable data to the GIS team.
-          •	Creating ad hoc reporting and standardized reports/dashboards.
-          •	Maintaining a high level attention to detail.
+        • Analyzing and monitoring data to guide market expansion while ensuring consumable data to the GIS team.
+        • Creating ad hoc reporting and standardized reports/dashboards.
+        •	Maintaining a high level attention to detail.
     
   - title: Revenue Assurance Analyst
     company: Wide Open West
@@ -45,10 +45,10 @@ experience:
     date_end: '2022-05-16'
     description: |2-
         Responsibilities include:
-    
-          •	Generated revenue audit reporting by extracting data from multiple data sources while analyzing results to identify errors and opportunities for revenue recovery.
-          •	Analyzed and reviewed existing business processes to identify trends and to provide performance improvement recommendations. 
-          •	Performed exploratory, descriptive, and quantitative analysis on unreported areas of the business.
+
+        •	Generated revenue audit reporting by extracting data from multiple data sources while analyzing results to identify errors and opportunities for revenue recovery.
+        •	Analyzed and reviewed existing business processes to identify trends and to provide performance improvement recommendations. 
+        •	Performed exploratory, descriptive, and quantitative analysis on unreported areas of the business.
 
   - title: Analyst - FOCUS (field operations capacity utilization strategy)
     company: At&t
@@ -59,10 +59,10 @@ experience:
     date_end: '2019-02-11'
     description: |2-
         Responsibilities include:
-    
-           • Managed external partner reporting and analyzed market performance. 
-           • Created stored procedures for reporting and data analysis.
-           • Prepared detailed and summarized high-level ad hoc reports for both internal and external departments/partners.
+
+        • Managed external partner reporting and analyzed market performance. 
+        • Created stored procedures for reporting and data analysis.
+        • Prepared detailed and summarized high-level ad hoc reports for both internal and external departments/partners.
   
   - title: Analyst - Field Services Partner Operations
     company: Directv
@@ -73,10 +73,10 @@ experience:
     date_end: '2016-06-01'
     description: |2-
         Responsibilities include:
-    
-            •	Analyzed data from field operations to identify trends and similarities in order to improve customer experience, key metrics, and identified potential markets and home service providers that were below goal. 
-            •	Designed and created reporting showing key metrics in relation to company goals. 
-            •	Maintained daily, weekly, and monthly dashboard reporting as well as managed action plan reporting by market and by sales channels. 
+
+        •	Analyzed data from field operations to identify trends and similarities in order to improve customer experience, key metrics, and identified potential markets and home service providers that were below goal. 
+        •	Designed and created reporting showing key metrics in relation to company goals. 
+        •	Maintained daily, weekly, and monthly dashboard reporting as well as managed action plan reporting by market and by sales channels. 
 
 design:
   columns: '2'
