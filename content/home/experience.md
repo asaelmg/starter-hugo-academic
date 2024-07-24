@@ -44,6 +44,7 @@ experience:
     date_end: '2022-05-16'
     description: |2-
         Responsibilities include:
+    
           •	Generated revenue audit reporting by extracting data from multiple data sources while analyzing results to identify errors and opportunities for revenue recovery.
           •	Analyzed and reviewed existing business processes to identify trends and to provide performance improvement recommendations. 
           •	Performed exploratory, descriptive, and quantitative analysis on unreported areas of the business.
