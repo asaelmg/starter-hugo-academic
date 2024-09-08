@@ -29,7 +29,7 @@ education:
   courses:
   - course: Master of Business Administration
     institution: University of Northern Colorado
-    year: 2027
+    year: In Progress
   - course: Business Administration Information Systems
     institution: DeVry University
     year: 2013
